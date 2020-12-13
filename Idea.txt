@@ -1,0 +1,17 @@
+Shop Management System
+Airlines Reservation System
+University Admission System
+Weather Information System
+Electronic Voting System
+Railway System
+Aiub consulation management system
+Aiub Parking system
+Aiub Attendence System
+Library Management System
+CitiZens Services Management System
+Student Information Management System
+Employee Management System
+2D Racing Game
+2D Shooting game
+Cricket club Management System
+Book Exchange System
